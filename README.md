@@ -1,2 +1,2 @@
-# flexbox-ionic
-Uma série de estudos para aplicar Flexbox Layout no desenvolvimento de interfaces mobile com Ionic
+# Flexbox Ionic
+Uma série de estudos para aplicar Flexbox Layout no desenvolvimento de interfaces mobile com Ionic.
